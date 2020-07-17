@@ -1,0 +1,40 @@
+Office Leave Analysis using Tableau in Business Intelligence
+
+HR of a company was collecting data of Employee Leaves from 2010 in a digital format, now after 10
+Years they want to find insights of EMPLOYEE ENGAGEMENT, AVERAGE ABSENT DAYS, BENEFITS and
+FUTURE OUTCOMES for which they have shared data with Data Analyst.
+The Role of Data Analyst here will be played by you and have to work on following parameters and
+have to give your Insights accordingly.
+You need to import the data in TABLEAU and transform it in best way to reach and solve the following
+points.
+
+
+
+TASK1: Employee Benefits
+
+• With the help of time trend, show how people interest towards leaves have changed?
+• Among all types of Leave Subcategories, employees are getting benefitted from which leave
+subcategory?
+• Using Calendar Chart and Filters visualize that in which day of week and which month of year,
+a greater number of employees want break from work?
+
+
+
+TASK2: Average Days Absent
+
+• Find the Average number of leaves availed by employees in a year?
+• What is the average number of leaves are taken yearly under each Category of leaves.
+Visualize this view using Reference lines.
+• Find the Top N employees according to average number of Unpaid Leaves and average
+number of number of Total leaves he/she have availed.
+
+
+
+TASK3: Future Outcomes
+
+• Find Leave availed Percentage for each Leave Category and their Subcategories.
+• Find the Forecast of total number of leaves for year 2020.
+TASK4: Using Some of these Sheets, CREATE DASHBOARDS that would help in finding insight,
+• Employee Benefits
+• Average Days Absent
+• Insights for future
